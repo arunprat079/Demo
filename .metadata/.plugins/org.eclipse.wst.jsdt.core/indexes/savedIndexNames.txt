@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+E:\MCA\M.C.A 6 Sem\New folder\Project_Work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2770367745.index
+2219681703.index
+3050719488.index
+3137459464.index
+1735929388.index
+2609726289.index

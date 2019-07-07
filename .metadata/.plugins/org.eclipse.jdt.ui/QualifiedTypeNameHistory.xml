@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+<fullyQualifiedTypeName name="com.pojo.Criminaldetail"/>
+<fullyQualifiedTypeName name="com.pojo.Role"/>
+<fullyQualifiedTypeName name="com.pojo.Missingrecord"/>
+<fullyQualifiedTypeName name="com.pojo.Status"/>
+<fullyQualifiedTypeName name="com.model.BLManger"/>
+<fullyQualifiedTypeName name="com.pojo.Registration"/>
+<fullyQualifiedTypeName name="com.pojo.Theftrecord"/>
+<fullyQualifiedTypeName name="com.pojo.Firrecord"/>
+</qualifiedTypeNameHistroy>

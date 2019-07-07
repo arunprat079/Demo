@@ -1,0 +1,8 @@
+127.0.0.1 - - [02/May/2018:06:32:49 -0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:33:19 -0700] "GET /Online_FIR_System/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:33:37 -0700] "GET /Online_FIR_System/img/favicon.ico HTTP/1.1" 404 1017
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:33:40 -0700] "GET /Online_FIR_System/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:33:42 -0700] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:34:04 -0700] "POST /Online_FIR_System/LoginServlate HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:34:05 -0700] "GET /Online_FIR_System/admin.jsp HTTP/1.1" 200 11588
+0:0:0:0:0:0:0:1 - - [02/May/2018:06:34:11 -0700] "GET /Online_FIR_System/ViewMissingStatusAdmin.jsp HTTP/1.1" 200 18550
